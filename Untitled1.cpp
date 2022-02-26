@@ -30,6 +30,13 @@ int main()
 	    r=(a)+(b);
 	    cout<<"\nSu resultado es "<<r;break;
 	    
+		    case 2:
+	    	
+	     r=(a)-(b);
+	    cout<<"\nSu resultado es "<<r;break;
+	    
+	    
+	    
 	    
 	 default:cout<<"\nSeleccion invalida";
 	} 
