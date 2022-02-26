@@ -35,6 +35,11 @@ int main()
 	     r=(a)-(b);
 	    cout<<"\nSu resultado es "<<r;break;
 	    
+	    	    case 3:
+	   
+	   	     r=(a)*(b);
+	    cout<<"\nSu resultado es "<<r;break;
+	    
 	    
 	    
 	    
