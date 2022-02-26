@@ -39,7 +39,11 @@ int main()
 	   
 	   	     r=(a)*(b);
 	    cout<<"\nSu resultado es "<<r;break;
+	
+		    case 4:
 	    
+	    	     r=(a)/(b);
+	    cout<<"\nSu resultado es "<<r;break;
 	    
 	    
 	    
